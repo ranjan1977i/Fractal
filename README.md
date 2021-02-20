@@ -48,7 +48,7 @@ Waiting for Output ████████████████████�
 # Resources:           neednodes=1:gpu:ppn=2,nodes=1:gpu:ppn=2,walltime=06:00:00
 ########################################################################
 
-## u60339 is compiling DPCPP_Essentials Module1 -- oneAPI Intro sample - 1 of 2 simple.cpp
+## u is compiling DPCPP_Essentials Module1 -- oneAPI Intro sample - 1 of 2 simple.cpp
      Platform Name: Intel(R) Level-Zero
   Platform Version: 1.0
        Device Name: Intel(R) Graphics [0x4905]
