@@ -38,20 +38,13 @@ Extract the Zip file and run the ipython notebook
 ##Output while using GPU
 Job has been submitted to Intel(R) DevCloud and will execute soon.
 
- If you do not see result in 60 seconds, please restart the Jupyter kernel:
- Kernel -> 'Restart Kernel and Clear All Outputs...' and then try again
-
-Job ID                    Name             User            Time Use S Queue
-------------------------- ---------------- --------------- -------- - -----
-798175.v-qsvr-1            ...ub-singleuser u60339          00:00:20 R jupyterhub     
-798187.v-qsvr-1            run_simple.sh    u60339                 0 Q batch          
-
+ 
 Waiting for Output ██████████████████████ Done⬇
 
 ########################################################################
 #      Date:           Sat 20 Feb 2021 04:28:19 AM PST
 #    Job ID:           798187.v-qsvr-1.aidevcloud
-#      User:           u60339
+#      User:           
 # Resources:           neednodes=1:gpu:ppn=2,nodes=1:gpu:ppn=2,walltime=06:00:00
 ########################################################################
 
