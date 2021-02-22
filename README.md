@@ -68,3 +68,8 @@ Successfully computed Mandelbrot set.
 
 ##
 Optimized for GPU
+## The Learning experience
+## Good
+Fast to run and Implement
+## Bad
+Devcloud is slow.
